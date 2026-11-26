@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "identifier": "urn:air:get-wellawhite.tenstarshub.com:skills:site-navigation",
+      "identifier": "urn:air:get-wellawhite.tenstarsmarket.com:skills:site-navigation",
       "displayName": "WellaWhite Water Flosser Site Navigation",
       "type": "application/agent-skills+md",
-      "url": "https://get-wellawhite.tenstarshub.com/agent-skills/wellawhite-navigation.md",
+      "url": "https://get-wellawhite.tenstarsmarket.com/agent-skills/wellawhite-navigation.md",
       "description": "Navigation and factual product-information guide for WellaWhite Water Flosser pages, regional availability, water-jet cleaning, cleaning modes, use, maintenance and FAQ.",
       "tags": [
         "WellaWhite",

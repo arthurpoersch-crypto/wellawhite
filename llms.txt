@@ -3,22 +3,22 @@
 WellaWhite Water Flosser is a rechargeable water-jet dental hygiene device with three cleaning modes, interchangeable nozzles, a large water tank and a long-lasting battery.
 
 ## Main site
-- [WellaWhite international site](https://get-wellawhite.tenstarshub.com/)
-- [United States](https://get-wellawhite.tenstarshub.com/us/)
-- [United Kingdom](https://get-wellawhite.tenstarshub.com/uk/)
-- [Australia](https://get-wellawhite.tenstarshub.com/au/)
-- [Canada](https://get-wellawhite.tenstarshub.com/ca/)
-- [Deutschland](https://get-wellawhite.tenstarshub.com/de/)
-- [France](https://get-wellawhite.tenstarshub.com/fr/)
-- [Nederland](https://get-wellawhite.tenstarshub.com/nl/)
+- [WellaWhite international site](https://get-wellawhite.tenstarsmarket.com/)
+- [United States](https://get-wellawhite.tenstarsmarket.com/us/)
+- [United Kingdom](https://get-wellawhite.tenstarsmarket.com/uk/)
+- [Australia](https://get-wellawhite.tenstarsmarket.com/au/)
+- [Canada](https://get-wellawhite.tenstarsmarket.com/ca/)
+- [Deutschland](https://get-wellawhite.tenstarsmarket.com/de/)
+- [France](https://get-wellawhite.tenstarsmarket.com/fr/)
+- [Nederland](https://get-wellawhite.tenstarsmarket.com/nl/)
 
 ## Product information
 The site covers targeted water-jet cleaning, three cleaning modes, sensitive-gum use, cleaning around braces and dental appliances, rechargeable battery use, daily operation, maintenance and product FAQ.
 
 ## Agentic navigation
-- [WellaWhite site navigation skill](https://get-wellawhite.tenstarshub.com/agent-skills/wellawhite-navigation.md)
-- [AI Catalog](https://get-wellawhite.tenstarshub.com/ai-catalog.json)
-- [ARD Manifest](https://get-wellawhite.tenstarshub.com/.well-known/ard.json)
+- [WellaWhite site navigation skill](https://get-wellawhite.tenstarsmarket.com/agent-skills/wellawhite-navigation.md)
+- [AI Catalog](https://get-wellawhite.tenstarsmarket.com/ai-catalog.json)
+- [ARD Manifest](https://get-wellawhite.tenstarsmarket.com/.well-known/ard.json)
 
 ## Contact
-Website enquiries: contact@tenstarshub.com
+Website enquiries: contact@tenstarsmarket.com
