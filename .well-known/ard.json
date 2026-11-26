@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:get-wellawhite.tenstarshub.com:skills:site-navigation",
+      "displayName": "WellaWhite Water Flosser Site Navigation",
+      "type": "application/agent-skills+md",
+      "url": "https://get-wellawhite.tenstarshub.com/agent-skills/wellawhite-navigation.md",
+      "description": "Navigation and factual product-information guide for WellaWhite Water Flosser pages, regional availability, water-jet cleaning, cleaning modes, use, maintenance and FAQ.",
+      "tags": [
+        "WellaWhite",
+        "water-flosser",
+        "dental-hygiene",
+        "site-navigation"
+      ],
+      "capabilities": [
+        "ProductInformation",
+        "RegionalNavigation",
+        "FAQNavigation"
+      ],
+      "representativeQueries": [
+        "What is the WellaWhite Water Flosser?",
+        "How does the WellaWhite Water Flosser work?",
+        "Which WellaWhite page matches my market?"
+      ],
+      "version": "1.0.0"
+    }
+  ]
+}
